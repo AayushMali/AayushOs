@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Android Keystores & Sensitive Keys
+*.jks
+*.keystore
+
+# Build Outputs & Generated Artifacts
+out/
+build/
+bin/
+*.apk
+*.idsig
+
+# Compiled macOS & Python Binaries
+mac-companion/AayushOSMenuBar
+mac-companion/__pycache__/
+__pycache__/
+*.pyc
